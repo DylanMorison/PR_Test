@@ -1,0 +1,23 @@
+{
+  "name": "PR_Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanMorison/PR_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanMorison/PR_Test/issues"
+  },
+  "homepage": "https://github.com/DylanMorison/PR_Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
